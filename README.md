@@ -3,8 +3,8 @@ All spring tutorials stepby step
 
 Prerquisites:
 
-Maven 3.3+
-Tomcat 8.0/9.0
+Maven 3.3+, 
+Tomcat 8.0/9.0 ,
 Java SDK v1.8
 
 All the installation please use below link
